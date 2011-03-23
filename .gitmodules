@@ -1,0 +1,3 @@
+[submodule "assets/www/jog"]
+	path = assets/www/jog
+	url = git@github.com:artemave/jog.git
