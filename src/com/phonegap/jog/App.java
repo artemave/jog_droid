@@ -1,4 +1,4 @@
-package com.phonegap.helloworld;
+package com.phonegap.jog;
 
 import android.app.Activity;
 import android.os.Bundle;
